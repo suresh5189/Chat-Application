@@ -1,2 +1,2 @@
 # Chat-Application
-Check it out here :- https://simple-chat-app-demo.netlify.app/
+Check it out here :- https://chat-application-demo-123.netlify.app/
